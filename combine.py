@@ -23,8 +23,9 @@ def main():
 
   print("Save {} words to file: {}".format(len(total), out_file))
   with open(out_file, 'w') as fout:
-    for w in sorted(total, reverse=True):
+    for w in sorted(total):
       fout.write(w+'\n')
+  print("Better to have a look at the combined file and modify accordingly.")
   print("Finished!")
 
 if __name__ == "__main__":

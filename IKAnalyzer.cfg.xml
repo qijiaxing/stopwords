@@ -8,6 +8,5 @@
         <entry key="ext_stopwords"></entry>
         <!--用户可以在这里配置远程扩展字典 -->
         <!-- <entry key="remote_ext_dict">words_location</entry> -->
-        <!--用户可以在这里配置远程扩展停止词字典-->
-        <entry key="remote_ext_stopwords">https://github.com/qijiaxing/stopwords/blob/main/stopwords.txt</entry>
+        <entry key="remote_ext_stopwords">https://raw.githubusercontent.com/qijiaxing/stopwords/main/stopwords.txt</entry>
 </properties>
