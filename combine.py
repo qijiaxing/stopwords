@@ -13,7 +13,7 @@ def main():
     "goto456/hit_stopwords.txt",
     "goto456/scu_stopwords.txt",
   )
-  out_file = "total_stopwords.txt"
+  out_file = "stopwords.txt"
 
   total = set()
   for filename in filenames:
