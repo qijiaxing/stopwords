@@ -1,0 +1,3 @@
+[submodule "stopwords"]
+	path = stopwords
+	url = git@github.com:goto456/stopwords.git

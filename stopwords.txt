@@ -429,13 +429,11 @@
 绝对
 绝不
 给
-结果
 结合
 经过
 经常
 经
 组成
-练习
 纵然
 纵使
 纵令
@@ -467,7 +465,6 @@
 突出
 穷年累月
 究竟
-移动
 积极
 种
 离
@@ -753,7 +750,6 @@
 所
 截至
 截然
-战斗
 或许
 或者
 或曰
@@ -948,7 +944,6 @@
 实现
 完成
 完全
-安全
 它的
 它是
 它们的
@@ -1134,7 +1129,6 @@
 同时
 同一
 同
-合理
 各自
 各级
 各种
@@ -1381,13 +1375,9 @@
 但
 似的
 似乎
-传闻
-传说
-伟大
 会
 伙同
 企图
-任务
 任凭
 任何
 任
@@ -1654,7 +1644,6 @@
 一下
 一一
 一.
-一
 ㈧
 〕〔
 〕
@@ -1719,7 +1708,6 @@
 }
 zz
 zt
-zero
 yourselves
 yourself
 yours
@@ -1803,8 +1791,6 @@ unless
 unfortunately
 under
 un
-two
-twice
 trying
 try
 truly
@@ -1820,14 +1806,11 @@ thus
 thru
 throughout
 through
-three
 though
 those
 thoroughly
 thorough
 this
-third
-think
 they've
 they're
 they'll
@@ -1882,14 +1865,12 @@ somehow
 somebody
 some
 so
-six
 since
 shouldn't
 should
 she
 shall
 several
-seven
 seriously
 serious
 sent
@@ -1911,7 +1892,6 @@ say
 saw
 same
 said
-right
 respectively
 relatively
 regards
@@ -1952,8 +1932,6 @@ or
 onto
 only
 ones
-one
-once
 on
 old
 okay
@@ -1975,7 +1953,6 @@ none
 non
 nobody
 no
-nine
 next
 new
 nevertheless
@@ -2139,9 +2116,7 @@ enough
 elsewhere
 else
 either
-eight
 eg
-edu
 each
 during
 downwards
@@ -2193,8 +2168,6 @@ brief
 both
 beyond
 between
-better
-best
 besides
 beside
 below
@@ -2278,16 +2251,6 @@ Lex
 ::
 ://
 :
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
 //
 /
 .日
